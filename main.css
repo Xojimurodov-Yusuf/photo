@@ -1,0 +1,27 @@
+    body {
+        font-family: sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background: #f0f0f0;
+        flex-direction: column;
+    }
+
+    button {
+        padding: 10px 20px;
+        font-size: 18px;
+        border-radius: 10px;
+        border: none;
+        background-color: #4CAF50;
+        color: white;
+        cursor: pointer;
+    }
+
+    video {
+        display: none;
+    }
+
+    .monkey {
+        display: none;
+    }
